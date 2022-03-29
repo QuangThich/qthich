@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+   background-color: blanchedalmond;
+   
+    margin: 0 auto;
+}
+.header{
+    border-color: lightgray;
+    
+}
+.logo{
+    width: 20%;
+    display: inline-block;
+}
+.logo img{
+    width: 140px;
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+.nav{
+    width: 79%;
+    display: inline-block;
+    margin-left: -4px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+.nav ul{
+    list-style: none;
+    text-align: right;
+}
+.nav li{
+display: inline;
+margin: 0 24px;
+}
+.nav li a{
+    color: green;
+    text-decoration: none;
+    font-size: 18px;
+}
+.banner{
+   background-color: white;
+    padding: 80px 0;
+}
+.sale{
+    display: inline-block;
+    width: 50%;
+    vertical-align: middle;
+}
+.anhsale{
+    display: inline-block;
+    width: 49%;
+    vertical-align: middle;
+    overflow: hidden;
+    height: 350px;
+}
+.anhsale img{
+    height: 100%;
+}
+.btn a{
+    padding: 8px 24px;
+    color: white;
+    text-decoration: none;
+    background-color: #DAB88B;
+}
+.pet{
+    padding: 80px 0;
+    background-color: #f9f9f9;
+}
+.btn{
+    padding: 36px 0 36px;
+}
+.doga a{
+    padding-left: 65px;
+    padding-top: 5px;
+    text-decoration: none;
+    color: blue;
+    font-size: 24px;
+}
+.anhdog{
+   display: inline-block;
+   width: 230px;
+   height: 230px;
+   background-color: blue;
+} 
+.textdog{
+    padding-bottom: 10px;
+}
+.buy{
+    padding: 10px 0 ;
+    width: 140px;
+    display: inline-block;
+    margin-left: 100px;
+}
+.thucan{
+    overflow: hidden;
+
+    background-color: #FFFFFF;
+}
+.gia{
+    color: red  ;
+   
+}
+.ten a{
+    text-decoration: none;
+    color: #1f1f1f;
+}
+
+.cat1{
+    background-color: #f9f9f9;
+    padding: 80px 0;
+}
+.buy1{
+    margin-top: 140px;
+}
+.content{
+    background-color: #F7F5F2;
+}
+.eplore{
+    width: 230px;
+    padding: 24px 15px;
+    display: inline-block;
+}
+.eplore a{
+    
+    font-size: 20px;
+    text-decoration: none;
+    color: #1f1f1f;
+}
+.footer{
+    background-color: #DAB88B;
+    padding: 80px 0;
+    
+}
+.logo2 img{
+    width: 20%;
+    float: right;
+    padding: 0 30px;
+}
+.listmenu{
+    width: 30px;
+  
+}
+.fb img{
+    width: 80%;
+}
+.in4 a{
+    width: 20%;
+    text-decoration: none;
+    color: #1f1f1f;
+}
+.coppy p{
+    text-align: center;
+    
+
+}
